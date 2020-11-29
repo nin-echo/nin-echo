@@ -1,19 +1,11 @@
-### Hi there 👋
+### Hi there 👋, My Name is Bingqi Liu.
 
-<!--
-**nin-echo/nin-echo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on iOS & front-end development
+- 🌱 I’m currently learning Swift and JAVA
+- 💬 Ask me about app design / *photography*
+- 📫 How to reach me: hi@ninecho.co
+- 😄 Pronouns: She / Her
+- ⚡ Fun fact: Sci-Fi Movie Enthusiast 🚀
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
