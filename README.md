@@ -10,15 +10,17 @@
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-65-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-110-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 📦 113.8 kB Used in Github's Storage 
+> 📦 113.9 kB Used in Github's Storage 
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
-> 📜 17 Public Repositories
+> 📜 16 Public Repositories
  > 
 > 🔑 8 Private Repositories 
 
