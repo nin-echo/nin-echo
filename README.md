@@ -10,7 +10,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
 
@@ -63,10 +63,10 @@ XML                      5 mins              ░░░░░░░░░░░�
 
 🔥 Editors: 
 VS Code                  7 hrs 14 mins       ███████████████░░░░░░░░░░   60.45% 
-IntelliJ                 4 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   39.55%
+IntelliJ                 4 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   39.55%
 
 💻 Operating System: 
-Mac                      11 hrs 58 mins      █████████████████████████   100.0%
+Mac                      11 hrs 57 mins      █████████████████████████   100.0%
 
 ```
 
@@ -83,5 +83,5 @@ Jupyter Notebook         2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2021
+ Last Updated on 25/10/2021
 <!--END_SECTION:waka-->
