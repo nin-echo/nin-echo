@@ -1,7 +1,7 @@
 ### Hi there 👋, My Name is Bingqi Liu.
 
-- 🔭 I’m currently working on fullstack development
-- 🌱 I’m practicing V I M
+- 🔭 I’m currently working as fullstack developer
+- 🌱 I’m practicing V I M ... even more ? 🤨 want to build my own app
 - 💬 Ask me about app design / *photography*
 - 📫 How to reach me: hi@ninecho.co
 - 😄 Pronouns: She / Her
