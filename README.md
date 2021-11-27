@@ -1,7 +1,7 @@
 ### Hi there 👋, My Name is Bingqi Liu.
 
-- 🔭 I’m currently working on iOS & front-end development
-- 🌱 I’m currently learning Swift and JAVA
+- 🔭 I’m currently working on fullstack development
+- 🌱 I’m practicing V I M
 - 💬 Ask me about app design / *photography*
 - 📫 How to reach me: hi@ninecho.co
 - 😄 Pronouns: She / Her
